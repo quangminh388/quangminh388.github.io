@@ -291,11 +291,6 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://quangminh388.github.io/TQM/js/sw.js</loc>
-   <lastmod>2022-06-21</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
    <loc>https://quangminh388.github.io/TQM/Style.css</loc>
    <lastmod>2022-05-14</lastmod>
    <changefreq>weekly</changefreq>
@@ -446,6 +441,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://quangminh388.github.io/.git/objects/59/2e23c47a16550c9b4fab716705baec3a6afcb5</loc>
+   <lastmod>2022-06-21</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://quangminh388.github.io/.git/objects/50/71fa41e564801ff9b40e418dbae5bd9288d5ab</loc>
    <lastmod>2022-06-20</lastmod>
    <changefreq>weekly</changefreq>
@@ -551,6 +551,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://quangminh388.github.io/.git/objects/b2/8cfab68528a412d7cb2e4890fec7153715d86e</loc>
+   <lastmod>2022-06-21</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://quangminh388.github.io/.git/objects/d9/179b7f4c0f987f5b4286ded591eac1b11f338d</loc>
    <lastmod>2022-06-20</lastmod>
    <changefreq>weekly</changefreq>
@@ -643,6 +648,11 @@
   <url>
    <loc>https://quangminh388.github.io/.git/objects/fd/1fe87e7af422e546ee5672262744d6e7dfe3c3</loc>
    <lastmod>2022-06-20</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://quangminh388.github.io/.git/objects/cf/f25ff00578d55140c8f85ae1468318678567bf</loc>
+   <lastmod>2022-06-21</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -941,8 +951,23 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://quangminh388.github.io/.git/objects/e7/8ae8d869b24e56ee0cdcef8a99f522128c053f</loc>
+   <lastmod>2022-06-21</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://quangminh388.github.io/.git/objects/ce/a77c4bc2d4c0d0f23ed341d5aa428cb602ff56</loc>
+   <lastmod>2022-06-21</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://quangminh388.github.io/.git/objects/e0/5336a2db36cb4d2d0623a734fe638bce2b83ca</loc>
    <lastmod>2022-06-20</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://quangminh388.github.io/.git/objects/46/665524c244632e04d2aa43ddcb9dd44e3c647b</loc>
+   <lastmod>2022-06-21</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -963,6 +988,11 @@
   <url>
    <loc>https://quangminh388.github.io/.git/objects/23/3ed4e3f182d9e960f10b2119e43712ab564750</loc>
    <lastmod>2022-06-20</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://quangminh388.github.io/.git/objects/8d/2faa6effc7edcb09251377ff60ca521c83b486</loc>
+   <lastmod>2022-06-21</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1142,6 +1172,11 @@
   </url>
   <url>
    <loc>https://quangminh388.github.io/.git/index</loc>
+   <lastmod>2022-06-21</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://quangminh388.github.io/sw.js</loc>
    <lastmod>2022-06-21</lastmod>
    <changefreq>weekly</changefreq>
   </url>
