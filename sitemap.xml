@@ -57,7 +57,7 @@
   </url>
   <url>
    <loc>https://quangminh388.github.io/ipa/freebox.ipa</loc>
-   <lastmod>2022-07-11</lastmod>
+   <lastmod>2022-07-13</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -77,7 +77,7 @@
   </url>
   <url>
    <loc>https://quangminh388.github.io/ipa/Messenger-TQM.ipa</loc>
-   <lastmod>2022-07-11</lastmod>
+   <lastmod>2022-07-13</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -316,13 +316,33 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://quangminh388.github.io/.git/objects/d1/3b03e2a54e63f9cb20dccb358b90c48bbe7314</loc>
+   <lastmod>2022-07-13</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://quangminh388.github.io/.git/objects/pack/pack-1e51e65713f20a2ce6e34c25d1df59bb962f9908.idx</loc>
    <lastmod>2022-07-11</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://quangminh388.github.io/.git/objects/pack/pack-1e51e65713f20a2ce6e34c25d1df59bb962f9908.pack</loc>
-   <lastmod>2022-07-11</lastmod>
+   <lastmod>2022-07-13</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://quangminh388.github.io/.git/objects/8f/4504513cb6c539e5f6ba94d80da592643012a3</loc>
+   <lastmod>2022-07-13</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://quangminh388.github.io/.git/objects/38/413189293d873d4ee9647099754744aa44db89</loc>
+   <lastmod>2022-07-13</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://quangminh388.github.io/.git/objects/23/7c91cd1f09da30fc4830cfc00335a3154c0133</loc>
+   <lastmod>2022-07-13</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -337,17 +357,22 @@
   </url>
   <url>
    <loc>https://quangminh388.github.io/.git/logs/HEAD</loc>
-   <lastmod>2022-07-11</lastmod>
+   <lastmod>2022-07-13</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://quangminh388.github.io/.git/logs/refs/heads/master</loc>
-   <lastmod>2022-07-11</lastmod>
+   <lastmod>2022-07-13</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://quangminh388.github.io/.git/logs/refs/remotes/origin/HEAD</loc>
    <lastmod>2022-07-11</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://quangminh388.github.io/.git/logs/refs/remotes/origin/master</loc>
+   <lastmod>2022-07-13</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -411,8 +436,13 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://quangminh388.github.io/.git/COMMIT_EDITMSG</loc>
+   <lastmod>2022-07-13</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://quangminh388.github.io/.git/refs/heads/master</loc>
-   <lastmod>2022-07-11</lastmod>
+   <lastmod>2022-07-13</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -421,8 +451,13 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://quangminh388.github.io/.git/refs/remotes/origin/master</loc>
+   <lastmod>2022-07-13</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://quangminh388.github.io/.git/index</loc>
-   <lastmod>2022-07-11</lastmod>
+   <lastmod>2022-07-13</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
