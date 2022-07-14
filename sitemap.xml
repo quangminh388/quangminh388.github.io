@@ -56,11 +56,6 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://quangminh388.github.io/ipa/freebox.ipa</loc>
-   <lastmod>2022-07-13</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
    <loc>https://quangminh388.github.io/ipa/Filza-TQM.ipa</loc>
    <lastmod>2022-07-14</lastmod>
    <changefreq>weekly</changefreq>
@@ -326,6 +321,16 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://quangminh388.github.io/.git/objects/60/41fed37bfd35791ced664cfdf3b2a364bd6a67</loc>
+   <lastmod>2022-07-14</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://quangminh388.github.io/.git/objects/5a/255b8b37fd22f492e338c240c6bbad9f9bef4a</loc>
+   <lastmod>2022-07-14</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://quangminh388.github.io/.git/objects/a4/dbc4d7704f98b2ed85d4e7f246936321892dfe</loc>
    <lastmod>2022-07-14</lastmod>
    <changefreq>weekly</changefreq>
@@ -333,6 +338,11 @@
   <url>
    <loc>https://quangminh388.github.io/.git/objects/a3/961f7ed5850e8aeea2b7e73eec4967cb58c075</loc>
    <lastmod>2022-07-13</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://quangminh388.github.io/.git/objects/bb/7bef302f1b783c0557b9f09c6424b95989e5ba</loc>
+   <lastmod>2022-07-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -482,6 +492,11 @@
   </url>
   <url>
    <loc>https://quangminh388.github.io/.git/objects/db/5932cb227371aa057c70001d635d419bb60737</loc>
+   <lastmod>2022-07-14</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://quangminh388.github.io/.git/objects/b0/f07e9b03a43a0958d10cd5a0ef62e72b71deed</loc>
    <lastmod>2022-07-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
